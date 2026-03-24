@@ -3,7 +3,7 @@
 一个基于 **React + Vite + Tailwind CSS** 构建的现代化组件库文档网站，支持明暗双主题，全量 TypeScript 类型定义。
 
 
-<img width="2760" height="3542" alt="image" src="https://github.com/user-attachments/assets/21245fc2-6459-44b1-8ce4-f2b105300e7f" />
+<img width="2760" height="3530" alt="image" src="https://github.com/user-attachments/assets/e4e335a3-8dd1-453b-b1bb-54407b45ba1c" />
 
 
 <img width="2760" height="2478" alt="image" src="https://github.com/user-attachments/assets/3718894a-fd3f-47ec-8118-30b8805ed6d3" />
